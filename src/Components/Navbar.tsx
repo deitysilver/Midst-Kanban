@@ -11,9 +11,7 @@ function Navbar() {
       <div class="space-x-4">
         <button class="text-gray-300 hover:text-white">Guest</button>
         <button class="text-gray-300 hover:text-white">Login</button>
-        <button class="text-gray-300 hover:text-white">
-          Sign Up
-        </button>
+        <button class="text-gray-300 hover:text-white">Sign Up</button>
       </div>
     </nav>
   );
